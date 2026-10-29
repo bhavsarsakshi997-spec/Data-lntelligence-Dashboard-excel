@@ -13,6 +13,8 @@
 
 ---
 
+Video Link :- https://drive.google.com/file/d/18ARk4pundYd4_cnNk7-p-LMekeVAnUl4/view?usp=drive_link
+
 ## 📌 Project Overview
 
 This project demonstrates how Microsoft Excel can be used to transform raw transaction data into meaningful business information. It combines data preparation, formula-driven analysis, customer segmentation, date and time calculations, scenario analysis, regression, visualizations, and dashboard reporting in one structured workbook.
